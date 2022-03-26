@@ -33,6 +33,7 @@ background: linear-gradient(90deg, rgba(1,142,183,1) 0%, rgba(0,104,255,0.905199
   color: rgb(30, 41, 41);
   font-size: 40px;
   margin: 0;
+  margin-bottom: 40px;
 }
 .title{
   font-size: 40px;
