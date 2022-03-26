@@ -69,7 +69,7 @@ button{
   .weather-description{
     display: flex;
     justify-content: space-evenly;
-    margin-bottom: 30px;
+    margin-bottom: 32px;
     text-align: center;
   }
   .header-div{
